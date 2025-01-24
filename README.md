@@ -46,8 +46,7 @@ This portfolio isn’t just a collection of pages – it’s a story of your cre
 
 ## 🔗 **Live Demo**  
 
-💻 [Check out the live portfolio here!](#)  
-(Replace `#` with your portfolio URL)  
+💻https://github.com/Rakshith-27/Portfolio
 
 ---
 
